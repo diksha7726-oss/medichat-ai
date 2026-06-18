@@ -1,0 +1,49 @@
+CANCER
+
+Overview
+Cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells. If not controlled, cancer can invade surrounding tissues and spread to other parts of the body.
+
+Cell Biology Background
+Normal cells grow, divide, and die in an orderly manner. Cancer cells bypass normal regulatory mechanisms and continue dividing uncontrollably.
+
+Types
+Lung cancer
+Breast cancer
+Skin cancer
+Prostate cancer
+Colorectal cancer
+
+Symptoms
+Unexplained weight loss
+Fatigue
+Persistent pain
+Changes in skin
+Lumps in body
+
+Risk Factors
+Smoking
+Radiation exposure
+Genetic mutations
+Poor diet
+Environmental toxins
+
+Diagnosis
+Biopsy
+CT scan
+MRI
+Blood tests
+Tumor markers
+
+Treatment
+Surgery
+Chemotherapy
+Radiation therapy
+Immunotherapy
+Targeted therapy
+
+Prevention
+Avoid tobacco
+Healthy diet
+Regular exercise
+Vaccination against certain viruses
+Early screening

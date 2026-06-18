@@ -1,0 +1,54 @@
+MALARIA
+
+Overview
+Malaria is a life-threatening disease caused by Plasmodium parasites that are transmitted to humans through the bites of infected female Anopheles mosquitoes. It is common in tropical and subtropical regions.
+
+Parasite Life Cycle
+The malaria parasite enters the bloodstream through a mosquito bite and travels to the liver where it multiplies. It then infects red blood cells, leading to the symptoms of malaria.
+
+Types of Malaria Parasites
+Plasmodium falciparum
+Plasmodium vivax
+Plasmodium malariae
+Plasmodium ovale
+Plasmodium knowlesi
+
+Symptoms
+High fever
+Chills
+Sweating
+Headache
+Muscle pain
+Fatigue
+Nausea and vomiting
+
+Severe Symptoms
+Severe anemia
+Organ failure
+Seizures
+Coma
+
+Risk Factors
+Living in malaria-endemic regions
+Lack of mosquito protection
+Poor sanitation
+Travel to tropical regions
+
+Diagnosis
+Blood smear microscopy
+Rapid diagnostic tests
+Molecular diagnostic tests
+
+Treatment
+Antimalarial medications such as artemisinin-based combination therapies
+Supportive care
+Hospital treatment for severe cases
+
+Prevention
+Using insecticide-treated bed nets
+Indoor residual spraying
+Mosquito control programs
+Preventive medications for travelers
+
+Public Health Importance
+Malaria remains a major global health problem, particularly in Africa and parts of Asia. Efforts to control malaria include improved healthcare access, mosquito control, and vaccine development.

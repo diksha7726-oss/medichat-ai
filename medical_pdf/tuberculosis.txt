@@ -1,0 +1,56 @@
+TUBERCULOSIS (TB)
+
+Overview
+Tuberculosis is a contagious infectious disease caused by the bacterium Mycobacterium tuberculosis. It primarily affects the lungs but can also affect other parts of the body such as the brain, kidneys, and spine. Tuberculosis spreads through the air when an infected person coughs, sneezes, or speaks.
+
+History and Global Impact
+Tuberculosis has affected humans for thousands of years and remains a major global health concern. According to global health organizations, millions of new TB cases occur every year, particularly in developing countries where access to healthcare may be limited.
+
+Types of Tuberculosis
+Latent Tuberculosis
+In latent TB infection, the bacteria remain in the body in an inactive state. Individuals do not show symptoms and cannot spread the disease, but the infection can become active later.
+
+Active Tuberculosis
+Active TB occurs when the bacteria multiply and cause symptoms. It can spread from person to person through airborne particles.
+
+Symptoms
+Persistent cough lasting more than three weeks
+Chest pain
+Coughing up blood
+Fatigue
+Weight loss
+Fever
+Night sweats
+Loss of appetite
+
+Causes
+Tuberculosis is caused by Mycobacterium tuberculosis bacteria. The infection spreads through airborne droplets released when an infected person coughs or sneezes.
+
+Risk Factors
+Weak immune system
+HIV infection
+Malnutrition
+Diabetes
+Living in crowded conditions
+Smoking
+Alcohol abuse
+
+Diagnosis
+Tuberculin skin test
+Blood tests
+Chest X-ray
+Sputum test
+Molecular diagnostic tests
+
+Treatment
+Treatment typically involves a combination of antibiotics taken for several months. Common medications include isoniazid, rifampicin, ethambutol, and pyrazinamide.
+
+Complications
+Untreated TB can lead to severe lung damage, meningitis, kidney damage, and spinal problems.
+
+Prevention
+Vaccination with the BCG vaccine
+Early detection and treatment
+Improved ventilation in crowded areas
+Proper cough hygiene
+Regular medical screening in high-risk populations
